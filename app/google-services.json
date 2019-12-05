@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "955444929217",
+    "firebase_url": "https://pet-tracking-system-34d90.firebaseio.com",
+    "project_id": "pet-tracking-system-34d90",
+    "storage_bucket": "pet-tracking-system-34d90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955444929217:android:511be6338cfec540786a40",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955444929217-pc0k7nmkgua8oj8riqo0vblbqf330isi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavQp-LI3k09eu95qJrUjbn8F8JVg2MPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955444929217-pc0k7nmkgua8oj8riqo0vblbqf330isi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955444929217:android:8af074edfab9aa41786a40",
+        "android_client_info": {
+          "package_name": "com.example.pettrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955444929217-pc0k7nmkgua8oj8riqo0vblbqf330isi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavQp-LI3k09eu95qJrUjbn8F8JVg2MPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955444929217-pc0k7nmkgua8oj8riqo0vblbqf330isi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
